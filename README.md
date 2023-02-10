@@ -20,4 +20,4 @@
 - Create new excel file including the calculated total expenses
   
 ### Output
-![alt text](https://github.com/bhandarip78/calc-expenses-python/main/Output-SS.png?raw=true)
+![alt text](https://github.com/bhandarip78/calc-expenses-python/blob/main/Output-SS.png?raw=true)
