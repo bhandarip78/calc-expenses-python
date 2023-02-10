@@ -1,14 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[34]:
-
-
 import pandas as pd
 import os
 
 #Directory where the excel file is stored
-os.chdir('/Users/parasbhandari/PycharmProjects')
+os.chdir('/<yourdirectorypath>')
 fileName = 'expenses.xlsx'
 
 #Read excel file into data frame
@@ -26,34 +20,3 @@ print(df)
 
 #Now write into new xls file including totalexpense column
 df.to_excel('total-expenses.xlsx', index=False)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
