@@ -10,7 +10,7 @@
 ### How to run
 - In terminal point directory where the Expenses.py file is located
 - Also make sure expenses.xsls file is in same directory
-- In termianl run this command: python /{directorypath}/expenses.py
+- In terminal run this command: python /{directorypath}/expenses.py
 ---
 
 ### Features
