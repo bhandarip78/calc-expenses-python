@@ -1,7 +1,7 @@
 # Read data from excel, add expenses and write back to excel including new column which is total expense
 
 ---
-### Prerequisite/Dependicies
+### Prerequisite/Dependencies
 - Make sure python is installed
 - Pandas Library
 - os Library
