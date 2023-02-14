@@ -3,6 +3,7 @@
 ---
 ### Prerequisite/Dependencies
 - Make sure python is installed
+- python version 3.9
 - Pandas Library
 - os Library
 ---
