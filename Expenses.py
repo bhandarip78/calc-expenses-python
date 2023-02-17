@@ -18,5 +18,5 @@ print(col_to_add)
 df['totalexpense'] = df[col_to_add].sum(axis=1)
 print(df)
 
-#Now write into new xls file including totalexpense column
-df.to_excel('total-expenses.xlsx', index=False)
+#Now write into new csv file including totalexpense column
+df.to_csv('total-expenses.csv', index=False)
