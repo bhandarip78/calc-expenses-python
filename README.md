@@ -19,7 +19,7 @@
 - Reading excel file from a directory location
 - Sum up all expenses for each emplyoee 
 - Add the total expenses as a new column in excel 
-- Create new excel file including the calculated total expenses
+- Create new csv file including the calculated total expenses
   
 ### Output
 ![alt text](https://github.com/bhandarip78/calc-expenses-python/blob/main/Output-SS.png?raw=true)
